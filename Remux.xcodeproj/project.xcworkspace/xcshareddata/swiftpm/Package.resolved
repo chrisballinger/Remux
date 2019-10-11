@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftFFmpeg",
+        "repositoryURL": "https://github.com/sunlubo/SwiftFFmpeg.git",
+        "state": {
+          "branch": null,
+          "revision": "28148a61189c2e3d3f55f5e7f7eb952f55f8890f",
+          "version": "1.5.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
